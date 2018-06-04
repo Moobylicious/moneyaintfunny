@@ -1,0 +1,5 @@
+/QuantumCloud.Core/.vs/QuantumCloud.Core/v15/**
+**/bin/**
+**/obj/**
+**/.vs/**
+**/packages/**
